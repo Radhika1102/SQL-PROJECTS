@@ -24,4 +24,9 @@ After performing the SQL queries, an Excel workbook is generated, and pivot tabl
 Final Dashboard :
 ![Pizza Sales Analysis](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/915a2404-42a6-4dc7-b2c4-8f1a1bbf6f61)
 
+![WhatsApp Image 2023-08-22 at 12 55 35 PM](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/eff06f1a-749b-4cf7-baea-369ecc815e58)
+
+1)Total Revenue:
+
+![WhatsApp Image 2023-08-22 at 12 55 34 PM](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/1042208e-1f5d-4ca4-94c5-2c03c3e4a76d)
 
