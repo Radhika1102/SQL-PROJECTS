@@ -30,3 +30,7 @@ Final Dashboard :
 
 ![WhatsApp Image 2023-08-22 at 12 55 34 PM](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/1042208e-1f5d-4ca4-94c5-2c03c3e4a76d)
 
+3)Total Pizzas Sold :
+
+![WhatsApp Image 2023-08-22 at 12 55 37 PM (1)](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/93ed059b-0a8c-413d-88aa-dede4cd47a08)
+
