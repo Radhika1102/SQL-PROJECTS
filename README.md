@@ -21,4 +21,7 @@ The Key Performance Indicators (KPIs):
 
 After performing the SQL queries, an Excel workbook is generated, and pivot tables are created to facilitate chart creation. The project culminates in the development of an interactive dashboard that showcases the key performance indicators (KPIs) and presents insightful graphs, providing valuable visualizations and insights.
 
-Final Dashboard
+Final Dashboard :
+![Pizza Sales Analysis](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/915a2404-42a6-4dc7-b2c4-8f1a1bbf6f61)
+
+
