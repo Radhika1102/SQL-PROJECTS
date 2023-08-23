@@ -1,4 +1,4 @@
-# SQL-PROJECTS
+
 Pizza Sales Analysis - SQL + Excel 📈📊
 Analyzing pizza sales data using SQL queries and Excel by exploring key metrics, tracking trends, and identifying top and worst sellers. Ensured data accuracy through validation. Included valuable insights for informed decision-making.
 
