@@ -46,6 +46,35 @@ Final Dashboard :
 
 ![WhatsApp Image 2023-08-22 at 12 55 39 PM](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/25cd1575-c229-4b9f-9ca5-cf410d9395b1)
 
+7)Hourly Trend for Orders :
+
+![WhatsApp Image 2023-08-22 at 12 55 40 PM](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/6a12bfef-967a-4257-a4ee-0958fde55b37)
+
+8)% of Sales by Pizza Category :
+
+![WhatsApp Image 2023-08-22 at 12 55 40 PM (1)](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/90510fe1-7e3a-4bf0-aeac-dbaf4c6ce501)
+
+9)% of Sales by Pizza Size :
+
+![WhatsApp Image 2023-08-22 at 12 55 41 PM](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/99abeaf1-d9c4-41c7-a415-a0fc9f751833)
+
+10)Top 5 Best Sellers by Total Pizzas Sold :
+
+![WhatsApp Image 2023-08-22 at 12 55 43 PM](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/92f119ce-376f-4a50-a75d-58e13c723b6e)
+
+11)Bottom 5 Best Sellers by Total Pizzas Sold :
+
+![WhatsApp Image 2023-08-22 at 12 55 43 PM (1)](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/119965bc-2d79-4eb0-a5c2-453a94b988df)
+
+
+
+
+
+
+
+
+
+
 
 
 
