@@ -34,3 +34,19 @@ Final Dashboard :
 
 ![WhatsApp Image 2023-08-22 at 12 55 37 PM (1)](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/93ed059b-0a8c-413d-88aa-dede4cd47a08)
 
+4)Total Orders :
+
+![WhatsApp Image 2023-08-22 at 12 55 37 PM (2)](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/603b31b9-d081-475c-bc6c-1e41b91356c5)
+
+5)Average Pizzas Per Order :
+
+![WhatsApp Image 2023-08-22 at 12 55 38 PM](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/9ed4d1ea-3192-480d-bbbe-cde70696d8f2)
+
+6) Daily Trend for Total Orders :
+
+![WhatsApp Image 2023-08-22 at 12 55 39 PM](https://github.com/Radhika1102/SQL-PROJECTS/assets/131529605/25cd1575-c229-4b9f-9ca5-cf410d9395b1)
+
+
+
+
+
